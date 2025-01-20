@@ -51,5 +51,3 @@ Les contributions sont les bienvenues ! Voici comment contribuer :
 3. Commitez vos modifications (`git commit -m "Ajout d'une nouvelle fonctionnalité"`).
 4. Poussez sur la branche (`git push origin feature/nom-fonctionnalite`).
 5. Ouvrez une Pull Request.
-
-O II A O II A O
